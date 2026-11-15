@@ -1,4 +1,5 @@
 {
+  // Production: s.ophl.eu.org; AI disabled; analytics enabled.
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "ophl-sink",
   "main": ".output/server/index.mjs",
